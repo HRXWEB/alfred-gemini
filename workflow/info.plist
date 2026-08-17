@@ -42,7 +42,7 @@
 	<key>name</key>
 	<string>Gemini Chat</string>
 	<key>version</key>
-	<string>0.0.1</string>
+	<string>0.0.2</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -135,7 +135,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Use gm to open a new Gemini chat. Use gmt to open a new temporary Gemini chat. The workflow expects ~/Applications/Gemini.app and requires Alfred Accessibility permission.</string>
+	<string>Use gm to open a new Gemini chat. Use gmt to open a new temporary Gemini chat. The workflow expects the official Gemini Mac app named Gemini.app and requires Alfred Accessibility permission.</string>
 	<key>uidata</key>
 	<dict>
 		<key>3C1B2F5A-CA54-48B5-8D9C-B3460F6145AA</key>
